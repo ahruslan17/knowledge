@@ -1,0 +1,15 @@
+сегменты для метрик:
+
+- country
+- platform
+- paid/organic
+- engagement level (low/medium/high)
+
+по когортам 
+
+
+
+
+
+
+
